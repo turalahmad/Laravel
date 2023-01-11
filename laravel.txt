@@ -1,1 +1,2 @@
 backend olaraq Laravel oyrenirik
+men oz kodlarimi elave edirem
